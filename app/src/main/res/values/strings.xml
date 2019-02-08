@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Spinner</string>
+
+    <string name="spinner_tip">Choose a tip of</string>
+
+    <string-array name="colour_arrays">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>Purple</item>
+    </string-array>
+</resources>
